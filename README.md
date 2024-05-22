@@ -1,6 +1,7 @@
 <img width="604" alt="image" src="https://github.com/rawataman101/instagram-stories-feature/assets/42992769/72eea1f0-689e-4b68-b6c2-12dd049805b6">
 
-![Uploading image.png…]()
+<img width="841" alt="image" src="https://github.com/rawataman101/instagram-stories-feature/assets/42992769/f0319515-2901-4188-b851-5f8d6f9fd031">
+
 
 # Getting Started with Create React App
 
