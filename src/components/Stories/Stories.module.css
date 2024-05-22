@@ -1,0 +1,8 @@
+.stories {
+  display: flex;
+  padding-left: 10px;
+  overflow: hidden;
+  overflow-x: scroll;
+  scrollbar-width: none; /* For Firefox */
+  scroll-behavior: smooth; /* Smooth scrolling */
+}
