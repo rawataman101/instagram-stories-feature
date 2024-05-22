@@ -5,7 +5,7 @@ import logo from "../../assets/insta.png";
 function Logo() {
   return (
     <div className={styles.logo}>
-      <img className={styles.image} src={logo} alt="" />
+      <img className={styles.image} src={logo} alt="instagram" />
     </div>
   );
 }
