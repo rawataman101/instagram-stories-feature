@@ -1,3 +1,7 @@
+<img width="604" alt="image" src="https://github.com/rawataman101/instagram-stories-feature/assets/42992769/72eea1f0-689e-4b68-b6c2-12dd049805b6">
+
+![Uploading image.png…]()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
